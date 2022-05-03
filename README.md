@@ -19,7 +19,7 @@ Using starter code, develop backe end for an e-commerce site. Configure a workin
 
 ## Demo
 
-Link to demo video:
+Link to demo video:https://drive.google.com/file/d/1yvqaoHZ9MclxTorV6LBDKZ-JtPqniTXO/view. Commands include: run npm seed and node server.js. Insomnia includes API routes for Categories, Products and Tags, including example of Get, Post and Delete.
 
 ## Usage
 
